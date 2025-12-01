@@ -2,8 +2,6 @@
 
 # 🚀 Alien Invasion Game
 
-![Alien Invasion Game](C:/Users/Nitin/.gemini/antigravity/brain/360387bc-8458-49e0-adc8-6734727c3dcf/uploaded_image_1764605592908.png)
-
 A classic space shooter game built with Python and Pygame. Defend Earth from waves of alien invaders in this action-packed arcade-style game!
 
 ## 📖 Table of Contents
